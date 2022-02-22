@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "32Sz+ryBNizjg5r2Gyl1WGCL4pX3S4UouC/6q2im7xGUvnM31gwQqwAWKa9/Vq8RH1nrt9M5cXKYpx5i5mEZTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\William\\Desktop\\Vs.2022.Sln.Example-main\\Dependency2\\Dependency2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
